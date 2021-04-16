@@ -1,0 +1,22 @@
+{
+  "name": "@ryosensei/numbers",
+  "version": "1.0.0",
+  "description": "Numbers utils",
+  "main": "numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ryosensei/js-numbers-utils.git"
+  },
+  "author": "Marc VARLET <marc@saebaweb.com>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/ryosensei/js-console-utils/issues"
+  },
+  "homepage": "https://github.com/ryosensei/js-numbers-utils#readme",
+  "devDependencies": {}
+}
